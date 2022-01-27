@@ -99,4 +99,26 @@ header {
     .menu-icon i {
         font-size: 1.7em;
     }
+    
+    background-color: #161616;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+h2 {
+    text-align: center;
+    color: #ffffff;
+}
+
+h3 {
+    text-align: center;
+    color: #ffffff;
+}
+
+p {
+    text-align: center;
+    color: #ffffff;
 }
