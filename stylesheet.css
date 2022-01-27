@@ -18,7 +18,7 @@ header {
     line-height: 50px;
     text-align: center;
     font-family: sans-serif;
-    background-color: #f1c40f;
+    background-color: #ff8f8f;
 }
 .brand {
     width: auto;
@@ -80,7 +80,7 @@ header {
         text-align: left;
         width: 100%;
         height: 50px;
-        background-color: #f1c40f;
+        background-color: #ff8f8f;
         padding: 10px 0px 10px 5%;
     }
     .menu-icon {
